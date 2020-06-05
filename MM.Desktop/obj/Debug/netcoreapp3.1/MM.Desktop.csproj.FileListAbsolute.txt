@@ -1,0 +1,13 @@
+D:\github\MagicMirror\MM.Desktop\bin\Debug\netcoreapp3.1\MM.Desktop.exe
+D:\github\MagicMirror\MM.Desktop\bin\Debug\netcoreapp3.1\MM.Desktop.deps.json
+D:\github\MagicMirror\MM.Desktop\bin\Debug\netcoreapp3.1\MM.Desktop.runtimeconfig.json
+D:\github\MagicMirror\MM.Desktop\bin\Debug\netcoreapp3.1\MM.Desktop.runtimeconfig.dev.json
+D:\github\MagicMirror\MM.Desktop\bin\Debug\netcoreapp3.1\MM.Desktop.dll
+D:\github\MagicMirror\MM.Desktop\bin\Debug\netcoreapp3.1\MM.Desktop.pdb
+D:\github\MagicMirror\MM.Desktop\obj\Debug\netcoreapp3.1\MM.Desktop.csprojAssemblyReference.cache
+D:\github\MagicMirror\MM.Desktop\obj\Debug\netcoreapp3.1\MM.Desktop.csproj.CoreCompileInputs.cache
+D:\github\MagicMirror\MM.Desktop\obj\Debug\netcoreapp3.1\MM.Desktop.AssemblyInfoInputs.cache
+D:\github\MagicMirror\MM.Desktop\obj\Debug\netcoreapp3.1\MM.Desktop.AssemblyInfo.cs
+D:\github\MagicMirror\MM.Desktop\obj\Debug\netcoreapp3.1\MM.Desktop.dll
+D:\github\MagicMirror\MM.Desktop\obj\Debug\netcoreapp3.1\MM.Desktop.pdb
+D:\github\MagicMirror\MM.Desktop\obj\Debug\netcoreapp3.1\MM.Desktop.genruntimeconfig.cache
