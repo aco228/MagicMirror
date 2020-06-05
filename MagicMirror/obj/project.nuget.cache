@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UqVzC9gMqxtdz+PzmaqO0EVIxiEb1rMgj7rEidR1vs5E12zeWW1rqdFjeX2nHrmNFdb73eXz42cQdieaZ5zVog==",
+  "dgSpecHash": "0KBc4itxBmZ/oix9v8DXHz0//1jRqgaaeMzeuczdLqEBDpDGHdioEuEmqT23cAkv3KFQCtVGN3HFNcnZnSk3Kw==",
   "success": true,
   "projectFilePath": "D:\\github\\MagicMirror\\MagicMirror\\MagicMirror.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aleks\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

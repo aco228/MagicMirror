@@ -1,0 +1,13 @@
+D:\github\MagicMirror\MagicMirror\bin\Release\netcoreapp3.1\MagicMirror.exe
+D:\github\MagicMirror\MagicMirror\bin\Release\netcoreapp3.1\MagicMirror.deps.json
+D:\github\MagicMirror\MagicMirror\bin\Release\netcoreapp3.1\MagicMirror.runtimeconfig.json
+D:\github\MagicMirror\MagicMirror\bin\Release\netcoreapp3.1\MagicMirror.runtimeconfig.dev.json
+D:\github\MagicMirror\MagicMirror\bin\Release\netcoreapp3.1\MagicMirror.dll
+D:\github\MagicMirror\MagicMirror\bin\Release\netcoreapp3.1\MagicMirror.pdb
+D:\github\MagicMirror\MagicMirror\obj\Release\netcoreapp3.1\MagicMirror.csprojAssemblyReference.cache
+D:\github\MagicMirror\MagicMirror\obj\Release\netcoreapp3.1\MagicMirror.AssemblyInfoInputs.cache
+D:\github\MagicMirror\MagicMirror\obj\Release\netcoreapp3.1\MagicMirror.AssemblyInfo.cs
+D:\github\MagicMirror\MagicMirror\obj\Release\netcoreapp3.1\MagicMirror.csproj.CoreCompileInputs.cache
+D:\github\MagicMirror\MagicMirror\obj\Release\netcoreapp3.1\MagicMirror.dll
+D:\github\MagicMirror\MagicMirror\obj\Release\netcoreapp3.1\MagicMirror.pdb
+D:\github\MagicMirror\MagicMirror\obj\Release\netcoreapp3.1\MagicMirror.genruntimeconfig.cache
